@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  API_BASE : 'https://firebootcamp-crm-api.azurewebsites.net/Test/api'
+  API_BASE : 'https://app-fbc-crm-api-prod.azurewebsites.net/api'
 };
 
 /*
